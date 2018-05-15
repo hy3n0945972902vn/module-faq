@@ -110,6 +110,7 @@
 .faq_listquestion h3{
 		font-size:20px;	
 }
+.faq_listquestion{padding:15px 0}
 /* ============================================================================================ */
 .faq-cat-content {
     margin-top: 25px;
@@ -141,7 +142,9 @@
 .active-faq {
     border-left: 5px solid #888888;
 }
-
+.panel-faq{
+	margin-bottom:5px;
+}
 .panel-faq .panel-heading .panel-title span {
     font-size: 13px;
     font-weight: normal;

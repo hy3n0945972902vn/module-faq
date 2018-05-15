@@ -32,7 +32,7 @@
 <div class="faq_listquestion">
 	<h3>{LANG.faq_listquestion}</h3>
 	<!-- BEGIN: detail -->
-	<div class="panel  panel-faq ">
+	<div class="panel-faq">
 
 		<a name="faq{ROW.id}"></a>
 		<div class=" block_faq">
