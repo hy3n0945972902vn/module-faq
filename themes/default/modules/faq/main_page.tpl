@@ -38,14 +38,14 @@
 		<div class=" block_faq">
 			<h4 class=" title">
 				<a data-toggle="collapse" data-parent="#accordion-cat-1"
-					href="#faq-cat-1-sub-2 "> <em
+					href="#faq-cat-1-sub-{ROW.id} "> <em
 					class="fa fa-question-circle question-awesome"></em> {ROW.title} <span
 					class="pull-right"><i class="glyphicon glyphicon-plus"></i></span>
 
 				</a>
 			</h4>
 		</div>
-		<div id="faq-cat-1-sub-2" class="panel-collapse collapse">
+		<div id="faq-cat-1-sub-{ROW.id}" class="panel-collapse collapse">
 			<div class="panel-body">
 <!-- 				<div class="question"> -->
 <!-- 					<strong class="fa fa-gg-circle"> {LANG.faq_question}:</strong> -->
