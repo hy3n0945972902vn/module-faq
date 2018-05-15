@@ -23,3 +23,4 @@ $lang_module['faq_welcome'] = 'Tại đây bạn có thể tham khảo các câu
 $lang_module['go_top'] = 'Lên phía trên';
 $lang_module['faq_question'] = 'Câu hỏi';
 $lang_module['faq_answer'] = 'Trả lời';
+$lang_module['faq_listquestion'] = 'CÁC CÂU HỎI THƯỜNG GẶP';

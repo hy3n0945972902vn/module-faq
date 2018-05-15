@@ -40,3 +40,5 @@
 !/themes/default/images/faq/*
 !/themes/default/modules/faq
 !/themes/default/modules/faq/*
+/error.php
+/.buildpath
